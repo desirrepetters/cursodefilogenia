@@ -206,7 +206,6 @@ Por fim, o último plugin é do FastTree, capaz de obter árvores filogenéticas
 <img src="https://raw.githubusercontent.com/desirrepetters/cursodefilogenia.ufpr/master/userguide/content/pt-br/docs/download/img/phylosuite/phylosuite_18.png" alt="Configurações de Instalação do plugin do FastTree dentro PhyloSuite" align="center">
 </center>
 <br><br>
-<br><br>
 Se todos os plug-ins foram instalados corretamente, a tela de Settings deve estar conforme abaixo, e pronto para uso!
 <br><br>
 <center>
