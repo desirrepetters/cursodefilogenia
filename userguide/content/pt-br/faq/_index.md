@@ -33,7 +33,7 @@ As aulas serão gravadas e disponibilizadas posteriormente, então poderão ser 
 <p><p>
 
 <b>Receberei certificado ao final do curso?</b><p>
-Se você participar de 75% ou mais das atividades, receberá um certificado de conclusão ao final do curso, com a carga horária de 60 horas e conteúdo programático.
+Se você participar das atividades, receberá um certificado de conclusão ao final do curso, com a carga horária de 60 horas e conteúdo programático.
 <p><p>
 
 {{% /blocks/section %}}
@@ -42,19 +42,14 @@ Se você participar de 75% ou mais das atividades, receberá um certificado de c
 ## Inscrições
 <p><p>
 <b>Como posso me inscrever?</b><p>
-No momento as inscrições estão fechadas, pois não há nenhuma turma aberta.
+No momento as inscrições estão fechadas, pois há uma turma em andamento.
 <p><p>
 
-<b>Há previsões de turmas futuras após a turma 02?</b><p>
-Para 2021 há uma turma prevista para o segundo semestre. Caso tenha interesse em saber quando a nova turma for aberta e queira receber nosso material de divulgação com mais detalhes, basta sinalizar seu interesse em nossa <a href="https://forms.gle/ddmNQn6eBntGuUYg9">lista de espera</a>.
+<b>Há previsões de turmas futuras após a turma do primeiro semestre de 2023?</b><p>
+Para 2023 existe a possibilidade de nova oferta no segundo semestre. Caso tenha interesse em saber quando a nova turma for aberta e queira receber nosso material de divulgação com mais detalhes, basta sinalizar seu interesse em nossa <a href="https://forms.gle/ddmNQn6eBntGuUYg9">lista de espera</a>.
 <p><p>
 
-<b>Como posso realizar o pagamento da inscrição?</b><p>
-Apenas por meio de GRU, seguindo as instruções da página de Inscrições.
-<p><p>
 
-<b>Em que bancos posso realizar o pagamento da GRU?</b><p>
-Apenas no Banco do Brasil.<p><p>
 
 
 
