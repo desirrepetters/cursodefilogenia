@@ -25,16 +25,14 @@ Nossa proposta com o curso "Sequências de DNA na Identificação de Espécies e
 
 <h2>Como o curso está estruturado?</h2> 
 <p><p>
-O curso conta com aulas teóricas e práticas, as quais serão realizadas por vídeoconferência na plataforma online Microsoft Teams, e posteriormente poderão ser reassistidas por meio de gravação. Os resumos do conteúdo teórico e tutoriais das atividades práticas serão disponibilizados em um site exclusivo para o participantes, e também por meio de uma apostila.
+O curso conta com aulas teóricas e práticas, as quais serão realizadas por vídeoconferência na plataforma online Zoom, e posteriormente poderão ser reassistidas por meio de gravação. Os resumos do conteúdo teórico e tutoriais das atividades práticas serão disponibilizados em um site exclusivo para o participantes, e também por meio de uma apostila.
 <p><p>
 
 <h2>Quais são as datas?</h2>
 <p><p>
-Para a turma 01, as aulas ocorreram entre os dias 19 de Outubro de 2020 e 18 de Novembro de 2020, nas segundas pela manhã (09:00 até 13:00) e quintas à tarde (13:30 até 17:30). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também foram resolvidas via e-mail.
+Para a turma em andamento, as aulas ocorrerão entre os dias 27 de Fevereiro e 05 de Abril, de segundas às quintas, das 16:00 até às 20:00. Além dos horários de aula, eventuais dúvidas sobre os conteúdos também foram resolvidas via e-mail.
 <p>
-Para a turma 02,as aulas ocorreram entre os dias 30 de Novembro de 2020 e 18 de Dezembro de 2020. nas segundas e quartas à tarde (13:30 até 17:30) e sextas pela manhã (08:30-12:30). Além dos horários de aula, eventuais dúvidas sobre os conteúdos também foram resolvidas via e-mail.
-<p>
-A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser informado sobre as datas e mais detalhes futuramente, clique <a href="https://forms.gle/ddmNQn6eBntGuUYg9">aqui</a> para se cadastrar na nossa lista de espera.
+A previsão de abertura para uma nova turma é no segundo semestre de 2023. Para ser informado sobre as datas e mais detalhes futuramente, clique <a href="https://forms.gle/ddmNQn6eBntGuUYg9">aqui</a> para se cadastrar na nossa lista de espera.
 <p><p>
 
 <h2>Quais conteúdos serão abordados?</h2>
@@ -139,13 +137,14 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 <p><p>
 
-<b>Desirrê Petters-Vandresen</b> é aluna de doutorado do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>.
+<b>Desirrê Petters-Vandresen</b> é pesquisadora de pós-doutorado do Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a>, atuando junto ao Laboratório de Bioprospecção e Genética Molecular de Microrganismos (BioGeMM).
 <p><p>
 <p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
 
 <ul>
 <li style="text-align: left">Filogenia e Taxonomia Molecular</li>
 <li style="text-align: left">Genômica de espécies de <i>Phyllosticta</i> associadas a citros</li>
+<li style="text-align: left">Genética da Interação Planta-Patógeno</li>
 </ul>
 
 <strong>Formação</strong>
@@ -153,7 +152,7 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 <ul>
 <li>Graduação em Ciências Biológicas (Bacharelado) - Universidade Federal do Paraná (UFPR) (2015);</li>
 <li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2018);</li>
-<li>Doutorado em Genética em andamento na Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (previsão de titulação: 2022)</li>
+<li>Doutorado em Genética - Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (2022)</li>
 </ul>
 </td>
 <td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/desirre.jpg" alt="Foto de Perfil de Desirrê Petters-Vandresen" width="310"/></td>
@@ -166,9 +165,9 @@ A previsão de abertura da turma 03 é no segundo semestre de 2021. Para ser inf
 
 ## Acompanhe nosso trabalho junto ao Laboratório BioGeMM!
 <p><p>
-O curso de Sequências de DNA na Identificação de Espécies e Análise Filogenética é promovido e ofertado pelo Programa de Pós-Graduação em Genética e pelo Laboratório de Bioprospecção e Genética Molecular de Microrganismos, localizado no Departamento de Genética da Universidade Federal do Paraná (UFPR, Curitiba, Brasil).
+O curso de Sequências de DNA na Identificação de Espécies e Análise Filogenética é promovido e ofertado pela GS Treinamentos e Consultoria.
 
-Você pode visitar o site do [Laboratório BioGeMM](https://www.bio.ufpr.br/portal/biogemm/) para conhecer melhor a nossa [equipe](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/equipe/), [linhas de pesquisa](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/linhas-de-pesquisa/), [produção acadêmica](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/publicacoes/), e também saber das últimas novidades e publicações mais recentes!
+Se você tiver interesse em nossa atuação acadêmica, você pode visitar o site do [Laboratório BioGeMM](https://www.bio.ufpr.br/portal/biogemm/) para conhecer melhor a nossa [equipe](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/equipe/), [linhas de pesquisa](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/linhas-de-pesquisa/), [produção acadêmica](https://www.bio.ufpr.br/portal/biogemm/o-laboratorio/publicacoes/), e também saber das últimas novidades e publicações mais recentes!
 
 
 
