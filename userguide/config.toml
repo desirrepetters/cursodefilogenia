@@ -58,9 +58,9 @@ anchor = "smart"
     url = "https://www.bio.ufpr.br/portal/biogemm/"
 	
 [[menu.main]]
-    name = "GS Treinamentos e Consultoria"
+    name = "GS Treinamento e Consultoria"
     weight = 60
-    url = "https://www.ufpr.br"
+    url = "https://gs-treinamento-e-consultoria.negocio.site/"
 
 
 [services]
