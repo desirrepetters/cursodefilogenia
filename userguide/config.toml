@@ -58,12 +58,7 @@ anchor = "smart"
     url = "https://www.bio.ufpr.br/portal/biogemm/"
 	
 [[menu.main]]
-    name = "PPG - Genética"
-    weight = 60
-    url = "https://www.bio.ufpr.br/portal/ppggenetica/"
-	
-[[menu.main]]
-    name = "UFPR"
+    name = "GS Treinamentos e Consultoria"
     weight = 60
     url = "https://www.ufpr.br"
 
@@ -96,7 +91,7 @@ weight = 1
 # Everything below this are Site Params
 
 [params]
-copyright = "BioGeMM - Laboratório de Bioprospecção e Genética Molecular de Microrganismos (UFPR)."
+copyright = "GS Treinamentos e Consultoria"
 
 # Menu title if your navbar has a versions selector to access old versions of your site.
 # This menu appears only if you have at least one [params.versions] set.
@@ -117,9 +112,9 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/desirrepetters/cursodefilogenia.ufpr"
+github_repo = "https://github.com/desirrepetters/cursodefilogenia"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/desirrepetters/cursodefilogenia.ufpr"
+github_project_repo = "https://github.com/desirrepetters/cursodefilogenia"
 
 # Specify a value here if your content directory is not in your repo's root directory
 github_subdir = "userguide"
@@ -181,7 +176,7 @@ enable = false
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 [[params.links.developer]]
 	name = "Os bastidores do nosso site!"
-	url = "https://github.com/desirrepetters/cursodefilogeniaufpr"
+	url = "https://github.com/desirrepetters/cursodefilogenia"
 	icon = "fab fa-github"
         desc = "Os bastidores do nosso site!"
 # [[params.links.developer]]
