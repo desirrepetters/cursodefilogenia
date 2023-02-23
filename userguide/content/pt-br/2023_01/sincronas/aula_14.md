@@ -3,7 +3,7 @@ title: "Aula 14 - Interpretação de árvores filogenéticas"
 linkTitle: "Aula 14 - Interpretação de árvores filogenéticas"
 weight: 4
 description: >
-  Encontro do dia 29 de março com aula sobre interpretação de árvores filogenéticas
+  Encontro do dia 30 de março com aula sobre interpretação de árvores filogenéticas
 ---
 
 <br>
