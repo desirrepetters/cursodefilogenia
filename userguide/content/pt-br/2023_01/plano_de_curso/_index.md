@@ -25,11 +25,11 @@ description: >
   <td style="vertical-align:middle;"><br>Atividade assíncrona: busca de informações referentes ao microrganismo de interesse de cada participante do curso.<br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 02 (Síncrona)</td>
-  <td style="vertical-align:middle;">01/02/2023 <br>(16:00 - 20:00)</td>
+  <td style="vertical-align:middle;">01/03/2023 <br>(16:00 - 20:00)</td>
   <td style="vertical-align:middle;"><a href="https://cursodefilogenia.netlify.app/2023_01/sincronas/aula_02"><br>Identificação de espécies em microrganismos - problemas e soluções.<br></a></td>
   <tr>
   <td style="vertical-align:middle;">Atividade 02 (Assíncrona)</td>
-  <td style="vertical-align:middle;">02/02/2023</td>
+  <td style="vertical-align:middle;">02/03/2023</td>
   <td style="vertical-align:middle;"><br>Atividade assíncrona: busca de informações referentes ao microrganismo de interesse de cada participante do curso.<br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 03 (Síncrona)</td>
