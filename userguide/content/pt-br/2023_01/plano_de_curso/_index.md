@@ -58,7 +58,7 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 07 (Síncrona)</td>
   <td style="vertical-align:middle;">15/03/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><br><a href="https://cursodefilogenia.netlify.app/2023_01/sincronas/aula_07"><br>Princípios para escolha de sequências para compor a árvore filogenética e uso apropriado de bancos de dados de alinhamentos e árvores.</a><br></td>
+  <td style="vertical-align:middle;"><a href="https://cursodefilogenia.netlify.app/2023_01/sincronas/aula_07"><br>Princípios para escolha de sequências para compor a árvore filogenética e uso apropriado de bancos de dados de alinhamentos e árvores.</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 08 (Síncrona)</td>
   <td style="vertical-align:middle;">16/03/2023 <br>(16:00 - 20:00)</td>
@@ -70,7 +70,7 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Atividade 05 (Assíncrona)</td>
   <td style="vertical-align:middle;">21/03/2023</td>
-  <td style="vertical-align:middle;"><br>Atividade assíncrona: busca de sequências e árvores referentes ao organismo de interesse de cada participante e preparação de alinhamentos para discussão nas aulas seguintes.</a><br></td>
+  <td style="vertical-align:middle;"><br>Atividade assíncrona: busca de sequências e árvores referentes ao organismo de interesse de cada participante e preparação de alinhamentos para discussão nas aulas seguintes.</a><br><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 10 (Síncrona)</td>
   <td style="vertical-align:middle;">22/03/2023 <br>(16:00 - 20:00)</td>
