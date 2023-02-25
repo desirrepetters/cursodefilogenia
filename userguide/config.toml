@@ -157,8 +157,8 @@ navbar_logo = true
 enable = true
 # The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
 # Update with your own repository and response text.
-yes = 'Ficamos felizes em saber que este conteúdo foi útil! Caso tenha mais sugestões, sinta-se à vontade para <a href="mailto:cursodefilogeniaufpr@gmail.com">dividi-las conosco!</a>.'
-no = 'Pedimos desculpas pelo problema! Por favor,  <a href="mailto:cursodefilogeniaufpr@gmail.com">diga-nos como podemos resolver o problema e ajudar você</a>.'
+yes = 'Ficamos felizes em saber que este conteúdo foi útil! Caso tenha mais sugestões, sinta-se à vontade para <a href="mailto:gstreinamentoseconsultoria@gmail.com">dividi-las conosco!</a>.'
+no = 'Pedimos desculpas pelo problema! Por favor,  <a href="mailto:gstreinamentoseconsultoria@gmail.com">diga-nos como podemos resolver o problema e ajudar você</a>.'
 
 # Adds a reading time to the top of each doc.
 # If you want this feature, but occasionally need to remove the Reading time from a single page, 
@@ -170,7 +170,7 @@ enable = false
 # End user relevant links. These will show up on left side of footer and in the community page if you have one.
  [[params.links.user]]
 	name = "Envie um e-mail pra gente!"
-	url = "mailto:cursodefilogenia.ufpr@gmail.com"
+	url = "mailto:gstreinamentoseconsultoria@gmail.com"
 	icon = "fa fa-envelope"
         desc = "E-mail de contato para dúvidas e muito mais!"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
