@@ -141,9 +141,12 @@ Para o último exemplo, procure em seu computador o Arquivo “<b>Aula_01_Exempl
 
 <br>
 <div align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DeN0ePRtjVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<br>
+<i>Em breve!</i>
+<br><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 <br><br>
-Clique <a href="https://photos.app.goo.gl/3LBgHgLsCDLef2TU8">aqui</a> para fazer o download do vídeo.
+Clique <a href="https://photos.app.goo.gl/">aqui</a> para fazer o download do vídeo (em breve!).
 <br><br>
 </div>
 
@@ -151,5 +154,5 @@ Clique <a href="https://photos.app.goo.gl/3LBgHgLsCDLef2TU8">aqui</a> para fazer
 
 <div align="center">
 <br>
-Clique <a href="https://github.com/desirrepetters/cursodefilogenia.ufpr/raw/master/userguide/content/pt-br/docs/praticas/slides/aula_01.pdf">aqui</a>!
+Clique <a href="">aqui</a> (em breve!)
 </div>
