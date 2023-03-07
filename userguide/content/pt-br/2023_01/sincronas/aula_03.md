@@ -1,9 +1,9 @@
 ---
-title: "Aula 03 - Critérios para identificação de espécies em diferentes organismos - seleção de genes apropriados e problemas frequentemente encontrados"
-linkTitle: "Aula 03 - Critérios para identificação de espécies em diferentes organismos - seleção de genes apropriados e problemas frequentemente encontrados"
+title: "Aula 03 - Critérios para identificação de espécies em diferentes organismos - estudos de caso e problemas frequentemente encontrados"
+linkTitle: "Aula 03 - Critérios para identificação de espécies em diferentes organismos - estudos de caso e problemas frequentemente encontrados"
 weight: 4
 description: >
-  Encontro do dia 06 de março com aula sobre critérios para identificação de espécies em diferentes organismos: estudo de caso e problemas frequentemente encontrados
+  Encontro do dia 06 de março com aula sobre critérios para identificação de espécies em diferentes organismos: estudos de caso e problemas frequentemente encontrados
 ---
 
 <br>
