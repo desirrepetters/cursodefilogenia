@@ -3,30 +3,27 @@ title: "Aula 03 - Critérios para identificação de espécies em diferentes org
 linkTitle: "Aula 03 - Critérios para identificação de espécies em diferentes organismos - seleção de genes apropriados e problemas frequentemente encontrados"
 weight: 4
 description: >
-  Encontro do dia 06 de março com aula sobre critérios para identificação de espécies em diferentes organismos: seleção de genes apropriados e problemas frequentemente encontrados
+  Encontro do dia 06 de março com aula sobre critérios para identificação de espécies em diferentes organismos: estudo de caso e problemas frequentemente encontrados
 ---
 
 <br>
 <div align="center">
 <h2>Parte 01</h2>
 <br>
-<i>Em breve!</i>
+<i>Exercício - Estudo de caso</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6loCe74UP3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
-Clique <a href="https://photos.app.goo.gl/">aqui</a> para fazer o download do vídeo (em breve!).
+Clique <a href="https://photos.app.goo.gl/vSgWXicA4Wqq2MbM7">aqui</a> para fazer o download do vídeo.
 <br><br>
 
 <h2>Parte 02</h2>
 <br>
-<i>Em breve!</i>
+<i>Exercício - Estudo de caso</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaXGbZXikYw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
-Clique <a href="https://photos.app.goo.gl/">aqui</a> para fazer o download do vídeo (em breve!).
+Clique <a href="https://photos.app.goo.gl/KnxgJBk2qeUBJdHz9">aqui</a> para fazer o download do vídeo.
 <br><br>
 
-<h2>Slides</h2>
-<br>
-Clique <a href="">aqui</a> (em breve!)
 </div>
