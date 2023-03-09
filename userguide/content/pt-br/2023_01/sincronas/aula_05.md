@@ -1,32 +1,29 @@
 ---
-title: "Aula 05 - Obtenção de sequências consenso, análise de cromatogramas e alinhamentos. Uso de bancos de dados e alinhamentos múltiplos"
-linkTitle: "Aula 05 - Obtenção de sequências consenso, análise de cromatogramas e alinhamentos. Uso de bancos de dados e alinhamentos múltiplos"
+title: "Aula 05 - Busca de sequências e informações em bancos de dados e alinhamentos múltiplos"
+linkTitle: "Aula 05 - Busca de sequências e informações em bancos de dados e alinhamentos múltiplos"
 weight: 4
 description: >
-  Encontro do dia 08 de março com aula sobre obtenção de sequências consenso, análise de cromatogramas e alinhamentos. Uso de bancos de dados e alinhamentos múltiplos
+  Encontro do dia 08 de março com aula sobre busca de sequências e informações em bancos de dados e alinhamentos múltiplos
 ---
 
 <br>
 <div align="center">
 <h2>Parte 01</h2>
 <br>
-<i>Em breve!</i>
+<i>Busca de sequências no NCBI GenBank e busca de informações no LPSN e Mycobank</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FpcLPy0t3t0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
-Clique <a href="https://photos.app.goo.gl/">aqui</a> para fazer o download do vídeo (em breve!).
+Clique <a href="https://photos.app.goo.gl/oKxjGMsaFxXiFMQV9">aqui</a> para fazer o download do vídeo.
 <br><br>
 
 <h2>Parte 02</h2>
 <br>
-<i>Em breve!</i>
+<i>Alinhamentos múltiplos no MAFFT</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cZ-UewT268I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
-Clique <a href="https://photos.app.goo.gl/">aqui</a> para fazer o download do vídeo (em breve!).
+Clique <a href="https://photos.app.goo.gl/S2g1yXxhs2JfdrqS9">aqui</a> para fazer o download do vídeo.
 <br><br>
 
-<h2>Slides</h2>
-<br>
-Clique <a href="">aqui</a> (em breve!)
 </div>
