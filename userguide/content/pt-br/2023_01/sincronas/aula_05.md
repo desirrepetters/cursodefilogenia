@@ -23,7 +23,7 @@ Clique <a href="https://photos.app.goo.gl/oKxjGMsaFxXiFMQV9">aqui</a> para fazer
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cZ-UewT268I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
-Clique <a href="https://photos.app.goo.gl/S2g1yXxhs2JfdrqS9">aqui</a> para fazer o download do vídeo.
+Clique <a href="https://photos.app.goo.gl/FFpvvrbYVtYYN3t4A">aqui</a> para fazer o download do vídeo.
 <br><br>
 
 </div>
