@@ -26,7 +26,4 @@ Clique <a href="https://photos.app.goo.gl/">aqui</a> para fazer o download do v√
 Clique <a href="https://photos.app.goo.gl/">aqui</a> para fazer o download do v√≠deo (em breve!).
 <br><br>
 
-<h2>Slides</h2>
-<br>
-Clique <a href="">aqui</a> (em breve!)
 </div>
