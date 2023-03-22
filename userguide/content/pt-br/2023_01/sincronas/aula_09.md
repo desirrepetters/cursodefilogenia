@@ -28,5 +28,5 @@ Clique <a href="https://photos.app.goo.gl/Cth5B6ppkHUaFtFA9">aqui</a> para fazer
 
 <h2>Slides</h2>
 <br>
-Clique <a href="">aqui</a> (em breve!)
+Clique <a href="https://github.com/desirrepetters/cursodefilogenia/raw/master/userguide/content/pt-br/2023_01/sincronas/slides/aula_09.pdf">aqui!</a>
 </div>
