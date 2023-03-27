@@ -118,3 +118,59 @@ prset statefreqpr=fixed(equal)
 lset nst=2 rates=invgamma
 prset statefreqpr=fixed(equal)
 ```
+
+## F81 - Felsenstein 1981
+
+#### F81
+
+```
+lset nst=1
+```
+
+#### F81 + G
+
+```
+lset nst=1 rates=gamma
+```
+
+#### F81 + I
+
+```
+lset nst=1 rates=propinv
+```
+
+#### F81 + I + G
+
+```
+lset nst=1 rates=invgamma
+```
+
+## JC - Jukes Cantor
+
+#### JC
+
+```
+lset nst=1
+prset statefreqpr=fixed(equal)
+```
+
+#### JC + G 
+
+```
+lset nst=1 rates=gamma
+prset statefreqpr=fixed(equal)
+```
+
+#### JC + I
+
+```
+lset nst=1 rates=propinv
+prset statefreqpr=fixed(equal)
+```
+
+#### JC + I + G 
+
+```
+lset nst=1 rates=invgamma
+prset statefreqpr=fixed(equal)
+```
