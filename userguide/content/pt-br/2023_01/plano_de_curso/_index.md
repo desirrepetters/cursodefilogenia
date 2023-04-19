@@ -97,15 +97,15 @@ description: >
   <td style="vertical-align:middle;"><a href="https://cursodefilogenia.netlify.app/2023_01/sincronas/aula_14"><br>Interpretação de árvores filogenéticas<br><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 15 (Síncrona)</td>
-  <td style="vertical-align:middle;">03/04/2023 <br>(16:00 - 20:00)</td>
+  <td style="vertical-align:middle;">17/04/2023 <br>(16:00 - 20:00)</td>
   <td style="vertical-align:middle;"><a href="https://cursodefilogenia.netlify.app/2023_01/sincronas/aula_15"><br>Aula para resolução de dúvidas e discussão de materiais e análises dos participantes<br><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 16 (Síncrona)</td>
-  <td style="vertical-align:middle;">04/04/2023 <br>(16:00 - 19:00)</td>
+  <td style="vertical-align:middle;">18/04/2023 <br>(16:00 - 19:00)</td>
   <td style="vertical-align:middle;"><a href="https://cursodefilogenia.netlify.app/2023_01/sincronas/aula_16"><br>Aula para resolução de dúvidas e discussão de materiais e análises dos participantes<br><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 17 (Síncrona)</td>
-  <td style="vertical-align:middle;">05/04/2023 <br>(16:00 - 19:00)</td>
+  <td style="vertical-align:middle;">19/04/2023 <br>(16:00 - 19:00)</td>
   <td style="vertical-align:middle;"><a href="https://cursodefilogenia.netlify.app/2023_01/sincronas/aula_17"><br>Aula para resolução de dúvidas e discussão de materiais e análises dos participantes<br><br></td>
   </table>
   </div>
